@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "OwnOffice",
+    "slug": "appmobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/img/icon.png",
+    "splash": {
+      "image": "./src/img/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./src/img/icon.png"
+    }
+  }
+}
